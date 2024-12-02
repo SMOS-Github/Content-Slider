@@ -1,2 +1,1 @@
-# Content-Slider
- Content Slider based on user mouse and scroll
+[OPEN IN BROWSER](https://smos-github.github.io/Content-Slider/)
